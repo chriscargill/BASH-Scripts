@@ -1,5 +1,8 @@
 #!/bin/bash
-#EXECUTABLES STILL NOT SHOWING UP, NEED TO FIGURE IT OUT
+# Use this to count the number of folders and files in a given directory
+
+# TODO - Executables still not showing up, need to figure it out
+
 if [ ! $# -eq 0 ] ; then
     args="$@"
 else
