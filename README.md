@@ -21,3 +21,11 @@ ___
 
 ### <span>itemcounter.sh</span>
 ![itemcounter.sh results](./screen_item_counter.png)
+
+### Anonymous Surfing
+* Run <span>changehost.sh<span>
+* After the reboot run <span>clean.sh</span>
+* Go through a VPN (optional)
+* Browse anonymously
+* Run <span>cleanstop.sh</span>
+* Run <span>changehost.sh</span> once more
